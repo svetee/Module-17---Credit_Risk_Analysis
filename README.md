@@ -3,7 +3,7 @@
 
 
 ## Overview 
-In this project I am going to use machine learning to create prediction models for this classification problem of credit risk. Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. I will be using different techniques to train and evaluate models with unbalanced classes.
+This project uses machine learning to create prediction models for a classification problem of credit risk. Credit risk is an inherently unbalanced classification problem because good loans easily outnumber risky loans. Different techniques are used to train and evaluate models with unbalanced classes.
 
 
 ## Results
@@ -79,7 +79,7 @@ In this project I am going to use machine learning to create prediction models f
 
 
 ## Summary
-Overall, the best model that was generated to predict the unbalanced classification problem of credit risk is the **Ensemble AdaBoost Classifier** as well as the Balanced Random Forest Classifier due to their high precision, recall, and accuracy scores being near 1 which is what we want in this prediction problem. But I would recommend the Ensemble AdaBoost Classifier due to its higher overall scores for a classification prediction. 
+The best model to predict the unbalanced classification problem of credit risk is the **Ensemble AdaBoost Classifier** and the Balanced Random Forest Classifier because of high precision, recall, and accuracy scores close to 1 which is ideal for this prediction problem. It is recommended, however, to consider the Ensemble AdaBoost Classifier due to its higher overall scores for a classification prediction. 
 
 
  
